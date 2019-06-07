@@ -8,12 +8,7 @@ import akka.http.scaladsl.server.Directives._
 
 
 final class ApiTest extends WordSpec with Matchers with ScalaFutures with ScalatestRouteTest {
-  private val routesWithDefinedResponses =
-    get {
-      path("status") {
-        complete(HttpEntity(ContentTypes.`application/json`, """{"status":"ok"}"""))
-      }
-    }
+  private val routesWithDefinedResponses = Routes.all
 
   "ScalaHttpApi" should {
 
