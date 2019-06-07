@@ -4,8 +4,6 @@ import akka.http.scaladsl.model._
 import akka.http.scaladsl.testkit.ScalatestRouteTest
 import org.scalatest.concurrent.ScalaFutures
 import org.scalatest.{Matchers, WordSpec}
-import akka.http.scaladsl.server.Directives._
-
 
 final class ApiTest extends WordSpec with Matchers with ScalaFutures with ScalatestRouteTest {
   private val routesWithDefinedResponses = Routes.all
