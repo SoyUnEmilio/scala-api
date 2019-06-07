@@ -1,0 +1,12 @@
+<component name="ProjectCodeStyleConfiguration">
+  <code_scheme name="Project" version="173">
+    <ScalaCodeStyleSettings>
+      <option name="alwaysUsedImports">
+        <array>
+          <option value="org.scalatest.Matchers.souldBe" />
+        </array>
+      </option>
+      <option name="FORMATTER" value="1" />
+    </ScalaCodeStyleSettings>
+  </code_scheme>
+</component>
