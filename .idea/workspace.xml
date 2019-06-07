@@ -1,23 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="98b29871-53b7-49f3-94fe-14ae6da9593f" name="Default Changelist" comment="Project structure">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__com_typesafe_akka_akka_http_spray_json_2_12_10_0_10_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__io_spray_spray_json_2_12_1_3_3_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/tv/codely/api/domain/User.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/tv/codely/api/infrastructure/UserMarshaller.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/tv/codely/api/infrastructure/UserMarshaller.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/tv/codely/api/infrastructure/marshaller/UserMarshaller.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/tv/codely/api/infrastructure/stubs/IntStub.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/tv/codely/api/infrastructure/stubs/StringStub.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/tv/codely/api/infrastructure/stubs/UserIdStub.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/tv/codely/api/infrastructure/stubs/UserNameStub.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/tv/codely/api/infrastructure/stubs/UserStub.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/api.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/api.iml" afterDir="false" />
+    <list default="true" id="98b29871-53b7-49f3-94fe-14ae6da9593f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/Dependencies.scala" beforeDir="false" afterPath="$PROJECT_DIR$/project/Dependencies.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/tv/codely/api/Routes.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/tv/codely/api/Routes.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/tv/codely/api/ApiTest.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/tv/codely/api/ApiTest.scala" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/classes/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -43,17 +29,20 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/tv/codely/api/ApiTest.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="50" selection-start-line="7" selection-start-column="50" selection-end-line="7" selection-end-column="50" />
+            <state relative-caret-position="243">
+              <caret line="29" column="4" selection-start-line="29" selection-start-column="4" selection-end-line="29" selection-end-column="4" />
+              <folding>
+                <element signature="e#23#56#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/tv/codely/api/infrastructure/marshaller/UserMarshaller.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+            <state>
+              <caret column="37" selection-start-column="37" selection-end-column="37" />
               <folding>
                 <element signature="e#34#81#0" expanded="true" />
               </folding>
@@ -61,21 +50,16 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/tv/codely/api/Routes.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="16" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
+            <state relative-caret-position="374">
+              <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
               <folding>
                 <element signature="e#23#81#0" expanded="true" />
               </folding>
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/tv/codely/api/infrastructure/UserMarshaller.scala">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -158,10 +142,10 @@
         <option value="$PROJECT_DIR$/src/test/tv/codely/api/infrastructure/stubs/StringStub.scala" />
         <option value="$PROJECT_DIR$/src/test/tv/codely/api/infrastructure/stubs/UserNameStub.scala" />
         <option value="$PROJECT_DIR$/src/test/tv/codely/api/infrastructure/stubs/UserStub.scala" />
-        <option value="$PROJECT_DIR$/src/main/tv/codely/api/Routes.scala" />
-        <option value="$PROJECT_DIR$/src/test/tv/codely/api/ApiTest.scala" />
         <option value="$PROJECT_DIR$/src/test/tv/codely/api/infrastructure/UserMarshaller.scala" />
         <option value="$PROJECT_DIR$/src/test/tv/codely/api/infrastructure/marshaller/UserMarshaller.scala" />
+        <option value="$PROJECT_DIR$/src/test/tv/codely/api/ApiTest.scala" />
+        <option value="$PROJECT_DIR$/src/main/tv/codely/api/Routes.scala" />
       </list>
     </option>
   </component>
@@ -421,7 +405,14 @@
       <option name="project" value="LOCAL" />
       <updated>1559920119766</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Refactoring test.&#10;Add marshalling.">
+      <created>1559929212970</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1559929212970</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -440,15 +431,18 @@
     <history-entry file="ApiTest - 2019.06.07 at 18h 22m 34s.xml">
       <configuration name="ApiTest" configurationId="ScalaTestRunConfiguration" />
     </history-entry>
+    <history-entry file="ApiTest_ScalaHttpApi_should_respond_successfully_while_requesting_its_status_ScalaHttpApi_should_return_all_the_system_users - 2019.06.07 at 19h 38m 29s.xml">
+      <configuration name="ApiTest.ScalaHttpApi should respond successfully while requesting its status&#10;ScalaHttpApi should return all the system users" configurationId="ScalaTestRunConfiguration" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9910000" />
+    <option name="totallyTimeSpent" value="10225000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1176" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Learn" order="3" />
@@ -458,15 +452,15 @@
       <window_info id="Image Layers" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32981783" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49733475" weight="0.32981783" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Build" order="7" weight="0.32981783" />
-      <window_info anchor="bottom" id="sbt-shell-toolwindow" order="8" sideWeight="0.49573562" visible="true" weight="0.32981783" />
+      <window_info active="true" anchor="bottom" id="sbt-shell-toolwindow" order="8" sideWeight="0.49520257" visible="true" weight="0.32981783" />
       <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49840087" weight="0.32981783" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5042644" side_tool="true" weight="0.32981783" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50479746" side_tool="true" visible="true" weight="0.32981783" />
       <window_info anchor="bottom" id="Database Changes" order="11" />
       <window_info anchor="bottom" id="Version Control" order="12" weight="0.32981783" />
       <window_info anchor="bottom" id="Docker" order="13" show_stripe_button="false" />
@@ -489,7 +483,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Project structure" />
-    <option name="LAST_COMMIT_MESSAGE" value="Project structure" />
+    <MESSAGE value="Refactoring test.&#10;Add marshalling." />
+    <option name="LAST_COMMIT_MESSAGE" value="Refactoring test.&#10;Add marshalling." />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/.scalafmt.conf">
@@ -610,27 +605,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/tv/codely/api/Routes.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="16" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
-          <folding>
-            <element signature="e#23#81#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/tv/codely/api/infrastructure/stubs/IntStub.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="7" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/tv/codely/api/ApiTest.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="50" selection-start-line="7" selection-start-column="50" selection-end-line="7" selection-end-column="50" />
         </state>
       </provider>
     </entry>
@@ -639,10 +617,30 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/tv/codely/api/infrastructure/marshaller/UserMarshaller.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+        <state>
+          <caret column="37" selection-start-column="37" selection-end-column="37" />
           <folding>
             <element signature="e#34#81#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/tv/codely/api/ApiTest.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="29" column="4" selection-start-line="29" selection-start-column="4" selection-end-line="29" selection-end-column="4" />
+          <folding>
+            <element signature="e#23#56#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/tv/codely/api/Routes.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+          <folding>
+            <element signature="e#23#81#0" expanded="true" />
           </folding>
         </state>
       </provider>

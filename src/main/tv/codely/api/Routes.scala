@@ -16,8 +16,8 @@ object Routes {
     path("status") {
       complete(HttpEntity(ContentTypes.`application/json`, """{"status":"ok"}"""))
     } ~
-    path("users") {
-      complete(systemUsers)
-    }
+      path("users") {
+        complete(systemUsers)
+      }
   }
 }
